@@ -1,2 +1,1 @@
-
-print "Hello, Perl from VS Code!\n";
+print "Hello Perl!\n";
