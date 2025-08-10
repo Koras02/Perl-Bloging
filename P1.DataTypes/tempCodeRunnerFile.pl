@@ -1,6 +1,7 @@
-my @toast = ("butter", "jam", "apple slices", "peanut butter");
-print $toast[0]; # "butter"
-print $toast[2]; # "apple slices"
+my $name = "Sally";
+my $age = 30;
+my $hobby = "reading";
+my $blog = "https://sallysblog.example.com";
 
-# 배열 전체 출력
-print "@toast\n"; # "butter jam apple slices peanut butter"
+print "$name is $age years old and enjoys $hobby, Check out her blog at $blog.\n"
+// "Sally is 30 years old and enjoys reading, Check out her blog at https://sallysblog.example.com."
