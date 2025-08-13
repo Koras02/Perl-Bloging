@@ -6,7 +6,7 @@ use utf8;
 my $file_name = "result.txt";
 open my $fh, ">:encoding(utf8)", 'result.txt' or die $!; 
 
-my $age = 15;
+my $age = 25 ;
 
 if ($age >= 20) {
     print $fh "성인입니다.\n";
