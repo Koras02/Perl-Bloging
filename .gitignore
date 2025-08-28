@@ -38,6 +38,7 @@ inc/
 /MANIFEST.bak
 /pm_to_blib
 /*.zip
+tempCodeRunnerFile.pl
 
 # Carton
 local/
