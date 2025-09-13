@@ -3,4 +3,4 @@ sub hello {
 }
 
 # 서브 루틴 호출
-greet();
+hello();
